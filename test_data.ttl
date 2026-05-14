@@ -1,0 +1,5 @@
+@prefix ex: <http://example.org/> .
+
+ex:Paris ex:isCapitalOf ex:France .
+ex:Berlin ex:isCapitalOf ex:Germany .
+ex:Rome ex:isCapitalOf ex:Italy .
