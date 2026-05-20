@@ -1,0 +1,14 @@
+@prefix ex: <http://example.org/> .
+@prefix schema: <http://schema.org/> .
+
+ex:Mumbai schema:population "20667656" ;
+          schema:country "India" ;
+          schema:continent "Asia" .
+
+ex:Tokyo schema:population "13960000" ;
+         schema:country "Japan" ;
+         schema:continent "Asia" .
+
+ex:NewYork schema:population "8336817" ;
+           schema:country "USA" ;
+           schema:continent "NorthAmerica" .
